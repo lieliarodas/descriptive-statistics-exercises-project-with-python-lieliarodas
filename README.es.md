@@ -6,6 +6,8 @@
 - Después, comprende un dataset nuevo.
 - Utiliza los conocimientos aprendidos para describirlo estadísticamente.
 
+<onlyfor saas="false" withBanner="false">
+  
 ## 🌱 Cómo iniciar este proyecto
 
 Sigue las siguientes instrucciones:
@@ -13,6 +15,8 @@ Sigue las siguientes instrucciones:
 1. Crear un nuevo repositorio haciendo fork en el [proyecto de Git](https://github.com/4GeeksAcademy/descriptive-statistics-exercises-project-with-python) o [haciendo clic aquí](https://github.com/4GeeksAcademy/descriptive-statistics-exercises-project-with-python/fork).
 2. Abre el repositorio creado recientemente en Codespace usando la [extensión del botón de Codespace](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace-for-a-repository#creating-a-codespace-for-a-repository).
 3. Una vez que el VSCode del Codespace haya terminado de abrirse, comienza tu proyecto siguiendo las instrucciones a continuación.
+
+</onlyfor>
 
 ## 🚛 Cómo entregar este proyecto
 
