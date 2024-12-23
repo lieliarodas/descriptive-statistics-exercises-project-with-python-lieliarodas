@@ -10,6 +10,7 @@
 	"technologies": ["matplotlib", "numpy", "pandas", "python", "machine learning", "data science"],
 	"difficulty": "beginner",
 	"syntax": "python",
+	"template_url": "self",
 	"duration": 2,
 	"autoPlay": false,
 	"projectType": "project",
